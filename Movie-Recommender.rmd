@@ -5,7 +5,6 @@
 #Author: "Goutham Muguluvalli-Niranjan"
 ```
 
-#Question 2.2
 ```{r}
 rm(list=ls())
 
