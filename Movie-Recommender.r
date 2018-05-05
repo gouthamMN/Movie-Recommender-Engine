@@ -114,3 +114,11 @@ for (i in 1:5) {
   }
 
 ```
+#OUTPUT
+## For User ID 67, the following movies are recommended: 
+## 
+## Movie  Greystoke: The Legend of Tarzan, Lord of the Apes (1984) , similarity score 0.675
+## Movie  Twister (1996) , similarity score 0.614
+## Movie  When Night Is Falling (1995) , similarity score 0.601
+## Movie  Unsuspected, The (1947) , similarity score 0.532
+## Movie  Man Who Fell to Earth, The (1976) , similarity score 0.518
